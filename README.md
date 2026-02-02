@@ -8,8 +8,4 @@
 5. Visually displays the state of the graph after each step.
 6. Shows the state of the priority queue throughout the traversal.
 
-Check out the project here : https://dijkstra-visualizer-git-main-sahilsawal99s-projects.vercel.app/
-
-
-## Contributors
-- Sahil Sawal
+Check out the project here : https://dijkstra-visualizer-tau.vercel.app/
