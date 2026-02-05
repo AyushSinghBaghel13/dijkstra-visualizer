@@ -8,7 +8,7 @@
 6. Shows the state of the priority queue throughout the traversal.
 Thank You!!
 
-Check out the project here: https://dijkstra-visualizer-tau.vercel.app/
+Check out the project here : https://dijkstras-visualizer.netlify.app/
 
 Story Behind the Algorithm(YT-Shorts) : https://youtu.be/8of-AQmq4VY?si=aWoI3oDh6daaur3h (Credit: Harshita Verma)
 
