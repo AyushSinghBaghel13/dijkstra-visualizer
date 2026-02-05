@@ -7,7 +7,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: "Dijkstra's Algorithm Visualizer - Sahil Sawal.",
+  title: "Dijkstra's Algorithm Visualizer - Ayush Singh Baghel.",
   description: "A graph visualization tool that can simulate Dijkstra's shortest path algorithm.",
 }
 
